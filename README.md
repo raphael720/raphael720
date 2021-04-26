@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Raphael Leite da Costa Nascimento</h1>
-  <h3 align="center">Um estudante de Data Science, que esta aprendendo  cada vez mais coisas novas no mundo da tecnologias 🙃<h3>
+  <h3 align="center">Um estudante de Data Science, que esta aprendendo cada vez</br> mais coisas novas no mundo da tecnologias 🙃<h3>
   <br/>
 </p>
   
