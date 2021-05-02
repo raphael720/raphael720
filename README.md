@@ -23,3 +23,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael720&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael720&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+#### _"Não tenho nenhum talento especial, sou apenas apaixonado pela curiosidade"_ 👩🏻‍💻  
