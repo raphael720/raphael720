@@ -25,7 +25,7 @@ I'm graduating in data science @ UFPB and looking for opportunities and collabar
 ## Github Stats :zap:
 
 [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael720&layout=compact&theme=tokyonight&exclude_repo=Machine_Learning_Projecs,icd,Exercicios-icd)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael720&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael720&layout=compact&theme=tokyonight&exclude_repo=Machine_Learning_Projects,icd,Exercicios-icd)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael720&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
