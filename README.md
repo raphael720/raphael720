@@ -3,7 +3,7 @@
 I'm graduating in data science @ UFPB and looking for opportunities and collabaration in projects related to data science and deep learning. Also, i like to make stuff and post it on the internet!  :stuck_out_tongue_winking_eye: 
 
 - 🔭 I’m currently working as a researcher at UFPB  (also, I am brushing up my data structures and algorithms skills regularly).  
-- 🌱 I’m currently learning Data Science, Deep Learning and Web Development.  
+- 🌱 I’m currently learning Data Science, Deep Learning and software engineering.  
 - 🤝 I’m looking to collaborate on data science and deep learning projects.  
  -   📫  How to reach me: 
   
@@ -25,7 +25,7 @@ I'm graduating in data science @ UFPB and looking for opportunities and collabar
 ## Github Stats :zap:
 
 [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael720&layout=compact&theme=tokyonight&exclude_repo=icd,Exercicios-icd)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael720&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael720&layout=compact&theme=tokyonight&exclude_repo=Machine_Learning_Projecs,icd,Exercicios-icd)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael720&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
